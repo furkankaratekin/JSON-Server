@@ -1,0 +1,28 @@
+{
+    "user":[
+      {
+        "id": 0,
+        "name": "Furkan KARATEKİN",
+        "email": "furkankaratekin.2k1@gmail.com",
+        "profile": " https://im.haberturk.com/2020/12/03/2890777_57d4dc07f79a92e990dffbaf87e290f5.jpg",
+        "status": "Active",
+        "role": "Admin"
+      },
+      {
+        "id": 1,
+        "name": "asd RATEKİN",
+        "email": "furatekin.2k1@gmail.com",
+        "profile": " https://im.haberturk.com/2020/12/03/2890777_57d4dc07f79a92e990dffbaf87e290f5.jpg",
+        "status": "Active",
+        "role": "Owner"
+      },
+      {
+        "id": 2,
+        "name": "Hasan TEKİN",
+        "email": "furkankaratekin.2k1@gmail.com",
+        "profile": " https://im.haberturk.com/2020/12/03/2890777_57d4dc07f79a92e990dffbaf87e290f5.jpg",
+        "status": "Active",
+        "role": "Employee"
+      }
+    ]
+}
